@@ -52,7 +52,7 @@ Follow the steps below to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/simple-logistic-image-classifier.git
+git clone https://github.com/pratikverse/simple-image-classifier.git
 cd simple-logistic-image-classifier
 ```
 
