@@ -101,7 +101,7 @@ Key plots and results available in the notebook:
 
 ## 🛠️ Future Improvements
 
-- ✅ Add regularization (L2)
+- ✅ Add regularization (L2) (DONE)
 - ✅ Modularize training into utility functions
 - 🔄 Extend to multi-class classification
 - 🔄 Convert to neural network-based approach
